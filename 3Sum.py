@@ -1,8 +1,8 @@
-# Code for 3Sum
+# Code for 3Sum #15
 # Problem:
 #  Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
 
-# function of 3Sum where returns all triplets that satisfy the condition above
+
 # Input:
 #       int_arr: an array of integer
 # Return:
