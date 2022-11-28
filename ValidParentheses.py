@@ -11,7 +11,7 @@
 # Return:
 #       true if string is valid
 #       false if string is invalid
-def valid_parenth(s: str) -> bool:
+def valid_parenth(s: str):
     parenth_lst = []
     for single_parenth in s:
         if single_parenth in ['(', '{', '[']:
